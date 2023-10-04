@@ -1,0 +1,116 @@
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\appsettings.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\GESTIÓN DE USUARIOS.staticwebassets.runtime.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\GESTIÓN DE USUARIOS.exe
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\GESTIÓN DE USUARIOS.deps.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\GESTIÓN DE USUARIOS.runtimeconfig.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\GESTIÓN DE USUARIOS.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\GESTIÓN DE USUARIOS.pdb
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NPOI.OOXML.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NPOI.OpenXml4Net.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NPOI.OpenXmlFormats.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NPOI.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.AssemblyInfo.cs
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.RazorAssemblyInfo.cache
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.RazorAssemblyInfo.cs
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets\msbuild.GESTIÓN DE USUARIOS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets\msbuild.build.GESTIÓN DE USUARIOS.props
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GESTIÓN DE USUARIOS.props
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GESTIÓN DE USUARIOS.props
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\scopedcss\bundle\GESTIÓN DE USUARIOS.styles.css
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\scopedcss\projectbundle\GESTIÓN DE USUARIOS.bundle.scp.css
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.csproj.CopyComplete
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\refint\GESTIÓN DE USUARIOS.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.pdb
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\GESTIÓN DE USUARIOS.genruntimeconfig.cache
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\obj\Debug\net6.0\ref\GESTIÓN DE USUARIOS.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.SqlServer.Types.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\EFCore.BulkExtensions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\EntityFrameworkCore.SqlServer.HierarchyId.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\MedallionTopologicalSort.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.NetTopologySuite.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NetTopologySuite.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NetTopologySuite.IO.SpatiaLite.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\NetTopologySuite.IO.SqlServerBytes.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Npgsql.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\danie\source\repos\GESTIÓN DE USUARIOS\GESTIÓN DE USUARIOS\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
